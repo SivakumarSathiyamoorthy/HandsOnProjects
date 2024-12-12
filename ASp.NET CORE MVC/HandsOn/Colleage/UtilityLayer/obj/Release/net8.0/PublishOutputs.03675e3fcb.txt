@@ -1,0 +1,10 @@
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\UtilityLayer\bin\Release\net8.0\publish\UtilityLayer.dll
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\UtilityLayer\bin\Release\net8.0\publish\UtilityLayer.deps.json
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\UtilityLayer\bin\Release\net8.0\publish\UtilityLayer.pdb
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\UtilityLayer\bin\Release\net8.0\publish\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\UtilityLayer\bin\Release\net8.0\publish\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\UtilityLayer\bin\Release\net8.0\publish\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\UtilityLayer\bin\Release\net8.0\publish\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\UtilityLayer\bin\Release\net8.0\publish\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\UtilityLayer\bin\Release\net8.0\publish\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\UtilityLayer\bin\Release\net8.0\publish\Microsoft.Extensions.Options.dll

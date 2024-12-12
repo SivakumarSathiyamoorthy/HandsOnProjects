@@ -1,0 +1,43 @@
+﻿@model StudentVM
+
+<form method="post" >
+    <input asp-for="student.StuId" hidden />
+    <table>
+        <thead>
+            <tr>
+                <th>
+                    Student Name:
+                </th>
+                <th>
+                   <input asp-for="student.StuName" />
+                </th>
+            </tr>
+            <tr>
+                <th>
+                    City:
+                </th>
+                <th>
+                    <input asp-for="student.StuCity" />
+                </th>
+            </tr>
+            <tr>
+                <th>
+                    Department:
+                </th>
+                <th>
+                    <select asp-items="Model.departmentList" asp-for="student.StuDepID" class="form-control">
+                        <option disabled selected >--Select Department--</option>
+                    </select>
+                </th>
+            </tr>
+            <tr>
+                <th>
+                    <button asp-controller="Student" asp-action="EditStudent">Update</button>
+                </th>
+                <th>
+                    <button asp-controller="Student" asp-action="GetAllStudents" >Back</button>
+                </th>
+            </tr>
+        </thead>
+    </table>
+</form>

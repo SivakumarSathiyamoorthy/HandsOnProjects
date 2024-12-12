@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sivakumar\\SKSM\\Learning\\Programming\\Docker\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9BB334-7F18-44C3-8E79-0150607A4B00}|DotNet.Docker.csproj|c:\\users\\sivakumar\\sksm\\learning\\programming\\docker\\app\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BB9BB334-7F18-44C3-8E79-0150607A4B00}|DotNet.Docker.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9BB334-7F18-44C3-8E79-0150607A4B00}|DotNet.Docker.csproj|c:\\users\\sivakumar\\sksm\\learning\\programming\\docker\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9BB334-7F18-44C3-8E79-0150607A4B00}|DotNet.Docker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Sivakumar\\SKSM\\Learning\\Programming\\Docker\\App\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\Sivakumar\\SKSM\\Learning\\Programming\\Docker\\App\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-03T21:04:18.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sivakumar\\SKSM\\Learning\\Programming\\Docker\\App\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sivakumar\\SKSM\\Learning\\Programming\\Docker\\App\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T20:02:25.945Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

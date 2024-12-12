@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sivakumar\\SKSM\\Learning\\Programming\\ASP.NET CORE\\JWT-Learning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2962E3A0-BC6C-4510-9312-A40FAEA8A519}|JWT-Learning.csproj|c:\\users\\sivakumar\\sksm\\learning\\programming\\asp.net core\\jwt-learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2962E3A0-BC6C-4510-9312-A40FAEA8A519}|JWT-Learning.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2962E3A0-BC6C-4510-9312-A40FAEA8A519}|JWT-Learning.csproj|c:\\users\\sivakumar\\sksm\\learning\\programming\\asp.net core\\jwt-learning\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2962E3A0-BC6C-4510-9312-A40FAEA8A519}|JWT-Learning.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2962E3A0-BC6C-4510-9312-A40FAEA8A519}|JWT-Learning.csproj|c:\\users\\sivakumar\\sksm\\learning\\programming\\asp.net core\\jwt-learning\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2962E3A0-BC6C-4510-9312-A40FAEA8A519}|JWT-Learning.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2962E3A0-BC6C-4510-9312-A40FAEA8A519}|JWT-Learning.csproj|c:\\users\\sivakumar\\sksm\\learning\\programming\\asp.net core\\jwt-learning\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2962E3A0-BC6C-4510-9312-A40FAEA8A519}|JWT-Learning.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sivakumar\\SKSM\\Learning\\Programming\\ASP.NET CORE\\JWT-Learning\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Sivakumar\\SKSM\\Learning\\Programming\\ASP.NET CORE\\JWT-Learning\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T18:50:32.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Sivakumar\\SKSM\\Learning\\Programming\\ASP.NET CORE\\JWT-Learning\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Sivakumar\\SKSM\\Learning\\Programming\\ASP.NET CORE\\JWT-Learning\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:47:50.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Sivakumar\\SKSM\\Learning\\Programming\\ASP.NET CORE\\JWT-Learning\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Sivakumar\\SKSM\\Learning\\Programming\\ASP.NET CORE\\JWT-Learning\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:35:28.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sivakumar\\SKSM\\Learning\\Programming\\ASP.NET CORE\\JWT-Learning\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sivakumar\\SKSM\\Learning\\Programming\\ASP.NET CORE\\JWT-Learning\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:41:12.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

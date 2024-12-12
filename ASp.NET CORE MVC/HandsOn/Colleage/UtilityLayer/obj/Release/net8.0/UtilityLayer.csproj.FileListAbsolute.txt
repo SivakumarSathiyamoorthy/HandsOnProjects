@@ -1,0 +1,12 @@
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\UtilityLayer\bin\Release\net8.0\UtilityLayer.deps.json
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\UtilityLayer\bin\Release\net8.0\UtilityLayer.dll
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\UtilityLayer\bin\Release\net8.0\UtilityLayer.pdb
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\UtilityLayer\obj\Release\net8.0\UtilityLayer.csproj.AssemblyReference.cache
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\UtilityLayer\obj\Release\net8.0\UtilityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\UtilityLayer\obj\Release\net8.0\UtilityLayer.AssemblyInfoInputs.cache
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\UtilityLayer\obj\Release\net8.0\UtilityLayer.AssemblyInfo.cs
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\UtilityLayer\obj\Release\net8.0\UtilityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\UtilityLayer\obj\Release\net8.0\UtilityLayer.dll
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\UtilityLayer\obj\Release\net8.0\refint\UtilityLayer.dll
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\UtilityLayer\obj\Release\net8.0\UtilityLayer.pdb
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\UtilityLayer\obj\Release\net8.0\ref\UtilityLayer.dll

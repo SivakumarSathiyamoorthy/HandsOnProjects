@@ -1,0 +1,5 @@
+C:\Users\Sivakumar\SKSM\Learning\Programming\Docker\App\out\DotNet.Docker.exe
+C:\Users\Sivakumar\SKSM\Learning\Programming\Docker\App\out\DotNet.Docker.dll
+C:\Users\Sivakumar\SKSM\Learning\Programming\Docker\App\out\DotNet.Docker.deps.json
+C:\Users\Sivakumar\SKSM\Learning\Programming\Docker\App\out\DotNet.Docker.runtimeconfig.json
+C:\Users\Sivakumar\SKSM\Learning\Programming\Docker\App\out\DotNet.Docker.pdb

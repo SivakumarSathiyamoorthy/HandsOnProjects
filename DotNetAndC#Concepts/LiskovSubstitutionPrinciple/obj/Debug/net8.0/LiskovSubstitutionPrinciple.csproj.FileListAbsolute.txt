@@ -1,0 +1,14 @@
+C:\Users\Sivakumar\SKSM\Learning\Programming\DotNetAndC#Concepts\LiskovSubstitutionPrinciple\obj\Debug\net8.0\LiskovSubstitutionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sivakumar\SKSM\Learning\Programming\DotNetAndC#Concepts\LiskovSubstitutionPrinciple\obj\Debug\net8.0\LiskovSubstitutionPrinciple.AssemblyInfoInputs.cache
+C:\Users\Sivakumar\SKSM\Learning\Programming\DotNetAndC#Concepts\LiskovSubstitutionPrinciple\obj\Debug\net8.0\LiskovSubstitutionPrinciple.AssemblyInfo.cs
+C:\Users\Sivakumar\SKSM\Learning\Programming\DotNetAndC#Concepts\LiskovSubstitutionPrinciple\obj\Debug\net8.0\LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Sivakumar\SKSM\Learning\Programming\DotNetAndC#Concepts\LiskovSubstitutionPrinciple\bin\Debug\net8.0\LiskovSubstitutionPrinciple.exe
+C:\Users\Sivakumar\SKSM\Learning\Programming\DotNetAndC#Concepts\LiskovSubstitutionPrinciple\bin\Debug\net8.0\LiskovSubstitutionPrinciple.deps.json
+C:\Users\Sivakumar\SKSM\Learning\Programming\DotNetAndC#Concepts\LiskovSubstitutionPrinciple\bin\Debug\net8.0\LiskovSubstitutionPrinciple.runtimeconfig.json
+C:\Users\Sivakumar\SKSM\Learning\Programming\DotNetAndC#Concepts\LiskovSubstitutionPrinciple\bin\Debug\net8.0\LiskovSubstitutionPrinciple.dll
+C:\Users\Sivakumar\SKSM\Learning\Programming\DotNetAndC#Concepts\LiskovSubstitutionPrinciple\bin\Debug\net8.0\LiskovSubstitutionPrinciple.pdb
+C:\Users\Sivakumar\SKSM\Learning\Programming\DotNetAndC#Concepts\LiskovSubstitutionPrinciple\obj\Debug\net8.0\LiskovSubstitutionPrinciple.dll
+C:\Users\Sivakumar\SKSM\Learning\Programming\DotNetAndC#Concepts\LiskovSubstitutionPrinciple\obj\Debug\net8.0\refint\LiskovSubstitutionPrinciple.dll
+C:\Users\Sivakumar\SKSM\Learning\Programming\DotNetAndC#Concepts\LiskovSubstitutionPrinciple\obj\Debug\net8.0\LiskovSubstitutionPrinciple.pdb
+C:\Users\Sivakumar\SKSM\Learning\Programming\DotNetAndC#Concepts\LiskovSubstitutionPrinciple\obj\Debug\net8.0\LiskovSubstitutionPrinciple.genruntimeconfig.cache
+C:\Users\Sivakumar\SKSM\Learning\Programming\DotNetAndC#Concepts\LiskovSubstitutionPrinciple\obj\Debug\net8.0\ref\LiskovSubstitutionPrinciple.dll

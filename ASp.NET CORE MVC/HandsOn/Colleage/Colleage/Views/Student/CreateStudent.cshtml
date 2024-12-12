@@ -1,0 +1,53 @@
+﻿@model StudentVM
+
+<form method="post">
+    <table>
+        <thead>
+            <div asp-validation-summary="ModelOnly"></div>
+           
+            <tr>
+                <th>
+                    Student Name:
+                </th>
+                 <th>
+                    <input asp-for="student.StuName" />
+                 </th>
+                <th> <span asp-validation-for="student.StuName"  class="text-danger"> </span> </th>
+            </tr>
+            <tr>
+                <th>
+                    City:
+                </th>
+                <th>
+                    <input asp-for="student.StuCity" />
+                </th>
+            </tr>
+            <tr>
+                <th>
+                    Department:
+                </th>
+                <th>
+                    <select asp-items="@Model.departmentList" asp-for="student.StuDepID" class="form-control">
+                        <option disabled selected>--Select Department--</option>
+                    </select>
+                    
+                </th>
+                <th> <span asp-validation-for="student.StuDepID" class="text-danger"> </span> </th>
+            </tr>
+            <tr>
+                <th>
+                    <button asp-controller="Student" asp-action="CreateStudent" class="btn-primary form-control">Create</button>
+                </th>
+                <th>
+                    <a asp-controller="Student" asp-action="GetAllStudents" class="btn-secondary border form-control">Back</a>
+                </th>
+            </tr>
+        </thead>
+    </table>
+</form>
+
+@section scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+}
+

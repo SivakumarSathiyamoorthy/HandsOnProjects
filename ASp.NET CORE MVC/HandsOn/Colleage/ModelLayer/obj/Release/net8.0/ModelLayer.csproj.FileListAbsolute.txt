@@ -1,0 +1,12 @@
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\ModelLayer\bin\Release\net8.0\ModelLayer.deps.json
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\ModelLayer\bin\Release\net8.0\ModelLayer.dll
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\ModelLayer\bin\Release\net8.0\ModelLayer.pdb
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\ModelLayer\obj\Release\net8.0\ModelLayer.csproj.AssemblyReference.cache
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\ModelLayer\obj\Release\net8.0\ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\ModelLayer\obj\Release\net8.0\ModelLayer.AssemblyInfoInputs.cache
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\ModelLayer\obj\Release\net8.0\ModelLayer.AssemblyInfo.cs
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\ModelLayer\obj\Release\net8.0\ModelLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\ModelLayer\obj\Release\net8.0\ModelLayer.dll
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\ModelLayer\obj\Release\net8.0\refint\ModelLayer.dll
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\ModelLayer\obj\Release\net8.0\ModelLayer.pdb
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\ModelLayer\obj\Release\net8.0\ref\ModelLayer.dll

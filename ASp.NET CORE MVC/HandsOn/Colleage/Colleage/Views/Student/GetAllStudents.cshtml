@@ -1,0 +1,35 @@
+﻿
+@model List<Student>
+
+<table>
+
+    <thead>
+        <tr class="align-content-center">
+        <a asp-controller="Student" asp-action="CreateStudent"> <h5 class="align-content-end">Create Student</h5> </a>
+        </tr>
+        <tr>
+                <th><label>Student Name</label></th>
+                <th><label>City</label></th>
+                <th><label>Department</label></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var obj in Model)
+            {
+                <tr>
+                    <th>@obj.StuName</th>
+                    <th>@obj.StuCity</th>
+                    <th>@obj.department.DepName</th>
+               
+                     <th>
+                    
+                    <a asp-controller="Student" asp-action="EditStudent" asp-route-id="@obj.StuId" class="btn-primary mx-2">Edit</a>
+                    <a asp-controller="Student" asp-action="DeleteStudent" asp-route-id="@obj.StuId" class="btn-danger mx-2">Delete</a>
+             
+                    </th>
+               
+                </tr>
+            }
+        </tbody>
+</table>
+

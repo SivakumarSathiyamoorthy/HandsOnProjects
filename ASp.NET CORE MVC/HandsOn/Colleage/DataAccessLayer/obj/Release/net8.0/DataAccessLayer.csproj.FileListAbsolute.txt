@@ -1,0 +1,17 @@
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\DataAccessLayer\bin\Release\net8.0\DataAccessLayer.deps.json
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\DataAccessLayer\bin\Release\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\DataAccessLayer\bin\Release\net8.0\DataAccessLayer.dll
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\DataAccessLayer\bin\Release\net8.0\DataAccessLayer.pdb
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\DataAccessLayer\bin\Release\net8.0\ModelLayer.dll
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\DataAccessLayer\bin\Release\net8.0\ModelLayer.pdb
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\DataAccessLayer\obj\Release\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.dll
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\DataAccessLayer\obj\Release\net8.0\refint\DataAccessLayer.dll
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.pdb
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\Sivakumar\SKSM\Learning\Programming\ASp.NET CORE MVC\HandsOn\Colleage\DataAccessLayer\obj\Release\net8.0\ref\DataAccessLayer.dll
